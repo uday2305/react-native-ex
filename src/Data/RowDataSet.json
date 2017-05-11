@@ -1,0 +1,21 @@
+{
+  RowDataSet :
+  [
+    {
+      picture:"groom",
+      title:"Groom"
+    },
+    {
+      picture:"bride",
+      title:"Bride"
+    },
+    {
+      picture:"marriage",
+      title:"Marriage"
+    },
+    {
+      picture:"reception",
+      title:"Reception"
+    }
+  ]
+}

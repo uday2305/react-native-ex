@@ -11,12 +11,12 @@ import {
   Text,
   View
 } from 'react-native';
-import Splash from './Splash';
-import Login from './src/components/Login/Login';
+import WedSplash from './src/components/Wedding/WedSplash';
+
 export default class premiereProject extends Component {
   render() {
     return (
-      <Login />
+      <WedSplash />
     );
   }
 }
